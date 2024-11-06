@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://mysjif.cowboy.quest/</loc>
     <lastmod>2024-11-04T20:56:27-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first-post.md/</loc>
+    <loc>http://mysjif.cowboy.quest/posts/</loc>
     <lastmod>2024-11-04T20:56:27-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://mysjif.cowboy.quest/posts/welcome.md/</loc>
     <lastmod>2024-11-04T20:56:27-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://mysjif.cowboy.quest/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://mysjif.cowboy.quest/tags/</loc>
   </url>
 </urlset>
